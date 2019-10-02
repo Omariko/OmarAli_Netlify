@@ -1,6 +1,6 @@
 ---
-title: The butler
-date: 2019-02-07T12:37:00.000+00:00
+title: Omar Ali
+date: 2019-10-02 11:37:00 +0000
 image: "/images/cappadocia-turkey.jpg"
 tags: []
 draft: false
