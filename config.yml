@@ -4,7 +4,7 @@ baseline: 'Cloud Engineer with an Agnostic  Mindset. '
 description: ''
 baseurl: "/"
 canonicalurl: true
-theme: hyde
+theme: ''
 date:
   format: j F Y
   timezone: Europe/Paris
